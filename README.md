@@ -5,6 +5,7 @@ Open a CMD as Administrator and run this:
 ```
 powershell -nop -c "iex(New-Object Net.WebClient).DownloadString('https://raw.githubusercontent.com/Levi990e/win10script/master/win10debloat.ps1')"
 ```
+or run debloat.bat as Administrator.
 
 - One Command to launch and run
 - Chocolatey Install
