@@ -23,6 +23,15 @@
 #	- Added Install Programs
 #	- Added Debloat Microsoft Store Apps
 #
+#	Levi990e one:
+#   > powershell -nop -c "iex (New-Object Net.WebClient).DownloadString('https://raw.githubusercontent.com/Levi990e/win10script/master/win10debloat.ps1')"
+#
+#	- One Command to launch and run
+#	- Chocolatey Install
+#	- O&O Shutup10 CFG and Run (ChrisTitus one didnt do anything, so i added my own, exported from my system)
+#	- Added Install Programs (added firefox, vlc, avast)
+#	- Added Debloat Microsoft Store Apps
+#
 ##########
 # Default preset
 $tweaks = @(
